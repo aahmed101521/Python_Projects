@@ -1,5 +1,5 @@
 # 1. Create a tuple
-my_tuple = (1,"Python",3.14)
+my_tuple = (1,"Python", 3.14)
 
 # 2. Print the tuple
 print(my_tuple)
